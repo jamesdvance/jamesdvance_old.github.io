@@ -23,7 +23,7 @@ email: james.dvance@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 Inspecting every byte of machine learning systems
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://jamesdvance.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jamesdvance.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thejamesvance
 github_username:  jamesdvance
 
