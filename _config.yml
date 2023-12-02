@@ -21,7 +21,7 @@
 title: James D Vance
 email: james.dvance@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Inspecting every byte of machine learning systems
+Savoring every byte of machine learning systems
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thejamesvance
